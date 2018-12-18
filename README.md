@@ -1,5 +1,5 @@
 ## Slide In On Scroll
 
-[Live]() Images slide into place on scroll
+[Live](https://typhaneybdev.github.io/JavaScript30-Slide_On_Scroll/) Images slide into place on scroll
 
-Vanilla JavaScript drum kit as part of [Wes Bos JavaScript 30](https://javascript30.com/)
+Vanilla JavaScript as part of [Wes Bos JavaScript 30](https://javascript30.com/)
